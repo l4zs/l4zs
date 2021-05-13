@@ -9,3 +9,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=l4zs&show_icons=true&theme=dark&locale=en" alt="l4zs" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zs&theme=dark" alt="l4zs" /></p>
+
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4zs&show_icons=true&theme=dark&locale=en" alt="l4zs" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4zs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
