@@ -261,7 +261,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Wed, 16 Jun 2021 19:35:25
+Last generated: Wed, 16 Jun 2021 20:25:03
 </div>
 <div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>l4zs</b> registered=10m, uid=6083, gid=0
   contributed to 32 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
@@ -288,15 +288,15 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [############        ] 59.16%
-<b>PHP         </b> [#####               ] 23.28%
-<b>KOTLIN      </b> [###                 ] 13.04%
-<b>BATCHFILE   </b> [#                   ] 2.82 %
-<b>JAVASCRIPT  </b> [#                   ] 1.65 %
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [############        ] 58.76%
+<b>PHP         </b> [#####               ] 23.12%
+<b>KOTLIN      </b> [###                 ] 13.62%
+<b>BATCHFILE   </b> [#                   ] 2.81 %
+<b>JAVASCRIPT  </b> [#                   ] 1.63 %
 <b>CSS         </b> [#                   ] 0.04 %
 <b>HTML        </b> [#                   ] 0.01 %
 </div>
-<footer>Connection reset by 8.77.143.31</footer></pre>
+<footer>Connection reset by 229.21.224.202</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
