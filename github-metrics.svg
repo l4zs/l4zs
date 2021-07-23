@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="832" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="840" class="">
   
 
   <defs><style>@font-face {
@@ -257,11 +257,11 @@
         </div>
       </div>
 
-<pre><div class="banner">Metrics generator 3.10.0
+<pre><div class="banner">Metrics generator 3.11.0
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Fri, 23 Jul 2021 15:26:53
+Last generated: 23/07/2021, 16:21
 </div>
 <div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>l4zs</b> registered=1y, uid=6083, gid=1
   contributed to 34 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -280,7 +280,7 @@ Last generated: Fri, 23 Jul 2021 15:26:53
   <b>   14</b> repositories starred
   <b>   27</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 27 repositories - 9.31 MB
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 27 repositories - 9.38 MB
 -r--  <b>   14</b>  stargazers
 -r--  <b>    4</b>  forks
 -r--  <b>   28</b>  watchers
@@ -296,9 +296,9 @@ dr-x         LICENSE
 <b>CSS         </b> [#                   ] 0.04 %
 <b>HTML        </b> [#                   ] 0.01 %
 </div>
-<footer>Connection reset by 77.124.204.134</footer></pre>
+<footer>Connection reset by 103.122.130.47</footer></pre>
 
-      <div id="metrics-end"></div>
     </div>
+    <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
   </foreignObject>
 </svg>
