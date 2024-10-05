@@ -58,14 +58,14 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [#############       ] 60.34%
-<b>JAVA        </b> [#####               ] 24.16%
-<b>PHP         </b> [##                  ] 9.04 %
-<b>C++         </b> [#                   ] 3.46 %
-<b>FREEMARKER  </b> [#                   ] 2.00 %
-<b>JAVASCRIPT  </b> [#                   ] 0.64 %
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [#############       ] 61.54%
+<b>JAVA        </b> [#####               ] 24.64%
+<b>PHP         </b> [##                  ] 9.22 %
+<b>C++         </b> [#                   ] 3.53 %
+<b>JAVASCRIPT  </b> [#                   ] 0.65 %
 <b>BATCHFILE   </b> [#                   ] 0.27 %
 <b>MAKEFILE    </b> [#                   ] 0.10 %
+<b>SWIFT       </b> [#                   ] 0.05 %
 </div>
 
 </pre>
