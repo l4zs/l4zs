@@ -18,12 +18,11 @@ jobs:
           # Options
           user: l4zs
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Europe/Berlin
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_colors: github
+          plugin_languages_ignored: tex,html,css
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
           plugin_languages_recent.load: 300
