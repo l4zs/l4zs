@@ -22,7 +22,7 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_ignored: tex,html,css
+          plugin_languages_ignored: tex,html,css,freemarker
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
           plugin_languages_recent.load: 300
