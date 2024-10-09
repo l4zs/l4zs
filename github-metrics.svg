@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
   
 
   <defs><style>@font-face {
@@ -51,22 +51,12 @@
   <b>   99</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 81 repositories - 49.9 MB
--r--  <b>   12</b>  stargazers
--r--  <b>    3</b>  forks
--r--  <b>   84</b>  watchers
+-r--  <b>    0</b>  stargazers
+-r--  <b>    0</b>  forks
+-r--  <b>    0</b>  watchers
 dr-x  <b>    0</b>  packages
-dr-x         LICENSE
--r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [#############       ] 61.95%
-<b>JAVA        </b> [#####               ] 24.38%
-<b>PHP         </b> [##                  ] 9.12 %
-<b>C++         </b> [#                   ] 3.49 %
-<b>JAVASCRIPT  </b> [#                   ] 0.64 %
-<b>BATCHFILE   </b> [#                   ] 0.27 %
-<b>MAKEFILE    </b> [#                   ] 0.10 %
-<b>SWIFT       </b> [#                   ] 0.05 %
-</div>
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
 
 </pre>
 
