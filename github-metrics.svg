@@ -38,7 +38,7 @@
   followed by <b>22</b> users
 </div>
 <div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  463</b> commits
+  <b>  464</b> commits
   <b>    2</b> pull requests reviewed
   <b>    3</b> pull requests opened
   <b>    0</b> issues opened
@@ -58,12 +58,12 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [#############       ] 62.28%
-<b>JAVA        </b> [#####               ] 24.02%
-<b>PHP         </b> [##                  ] 8.99 %
-<b>C++         </b> [#                   ] 3.44 %
-<b>JAVASCRIPT  </b> [#                   ] 0.64 %
-<b>GO          </b> [#                   ] 0.28 %
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [#############       ] 62.19%
+<b>JAVA        </b> [#####               ] 23.98%
+<b>PHP         </b> [##                  ] 8.97 %
+<b>C++         </b> [#                   ] 3.43 %
+<b>JAVASCRIPT  </b> [#                   ] 0.63 %
+<b>GO          </b> [#                   ] 0.43 %
 <b>BATCHFILE   </b> [#                   ] 0.27 %
 <b>MAKEFILE    </b> [#                   ] 0.10 %
 </div>
