@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
   
 
   <defs><style>@font-face {
@@ -38,7 +38,7 @@
   followed by <b>23</b> users
 </div>
 <div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  945</b> commits
+  <b>  947</b> commits
   <b>    1</b> pull request reviewed
   <b>    1</b> pull request opened
   <b>    0</b> issues opened
@@ -47,16 +47,26 @@
 <b>Tracked activity</b>
   <b>    6</b> users followed
   <b>    0</b> repositories sponsored
-  <b>  157</b> repositories starred
+  <b>  158</b> repositories starred
   <b>   83</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 75 repositories - 74.6 MB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+-r--  <b>   14</b>  stargazers
+-r--  <b>    3</b>  forks
+-r--  <b>   68</b>  watchers
 dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [#######             ] 30.09%
+<b>RUST        </b> [######              ] 28.90%
+<b>PYTHON      </b> [####                ] 18.41%
+<b>JAVA        </b> [##                  ] 7.08 %
+<b>JAVASCRIPT  </b> [##                  ] 6.67 %
+<b>MONKEY C    </b> [##                  ] 5.21 %
+<b>PHP         </b> [#                   ] 2.63 %
+<b>C++         </b> [#                   ] 1.01 %
+</div>
 
 </pre>
 
