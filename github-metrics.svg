@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
   
 
   <defs><style>@font-face {
@@ -50,13 +50,23 @@
   <b>  158</b> repositories starred
   <b>   83</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 77 repositories - 74.6 MB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 77 repositories - 74.7 MB
+-r--  <b>   14</b>  stargazers
+-r--  <b>    3</b>  forks
+-r--  <b>   68</b>  watchers
 dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">l4zs@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>KOTLIN      </b> [######              ] 26.92%
+<b>RUST        </b> [######              ] 26.04%
+<b>PYTHON      </b> [####                ] 16.62%
+<b>GO          </b> [##                  ] 9.34 %
+<b>JAVASCRIPT  </b> [##                  ] 7.73 %
+<b>JAVA        </b> [##                  ] 6.33 %
+<b>MONKEY C    </b> [#                   ] 4.66 %
+<b>PHP         </b> [#                   ] 2.35 %
+</div>
 
 </pre>
 
